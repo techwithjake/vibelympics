@@ -16,7 +16,7 @@ Web-based calculator using **only emojis** - no text! Built with Chainguard secu
 
 ## ✨ Features
 - 0️⃣-9️⃣ All numbers
-- ➕ ➖ ❌ 🔽 All operations
+- ➕ ➖ ✖️ ➗ All operations
 - ✅ Equals
 - 🔄 Clear
 - 🎨 Responsive design
